@@ -4,7 +4,7 @@
 "Unleash Your Potential: Explore Skills, Ignite Success".
 
 #Project Details:
-Project Demo URL :  
+Project Demo URL:  
 Demo Video URL :  
 GitHub Repository URL :  
 Industry: Explore the Skills 
